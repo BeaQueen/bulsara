@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tiles
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - Layer 4
+  - Layer 5
+  - Layer 6
+  - Facing Collider
   layers:
   - Default
   - TransparentFX
@@ -40,4 +48,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2087213285
+    locked: 0
+  - name: Player
+    uniqueID: 4218774275
+    locked: 0
+  - name: Foreground
+    uniqueID: 2610595181
+    locked: 0
+  - name: Battle Background
+    uniqueID: 3525323429
+    locked: 0
+  - name: Battle Characters
+    uniqueID: 971942665
     locked: 0
